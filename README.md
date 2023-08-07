@@ -6,7 +6,7 @@ I'm Abishek</h1>
 
 ### About Me🤓
 
-- 🏫 Product Suppport Engineer @Appglide Jul 2023 - Present | BCA Graduate | Ex-Wiproite July 2021 - Mar 2023
+- 🏫 **Product Suppport Engineer @Appglide Jul 2023 - Present** | Ex-Wiproite July 2021 - Mar 2023 | BCA Graduate
 - 📫 You can reach me at: <a href="abishekk0601@gmail.com">abishekk0601@gmail.com</a>
 
 ### DevOps Techstack 
